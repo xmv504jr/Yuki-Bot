@@ -125,7 +125,7 @@ let family100 = [];
 ky_ttt = []
 tttawal= ["0️⃣","1️⃣","2️⃣","3️⃣","4️⃣","5️⃣","6️⃣","7️⃣","8️⃣","9️⃣"]
 cmhit = []
-fake = "/> Tato KurrXd";
+fake = "/> Tato Sofys";
 autorespon = false
 playmusic = false
 menusimpel = false
@@ -513,7 +513,7 @@ const ftrol = {
                             status: 1,
                             surface : 1,
                             message: `BOT AKTIF SELAMA : ${waktu(runtime)}`, //Kasih namalu
-                            orderTitle: `KurrXdゑ v.3.0`,
+                            orderTitle: `Sofys v.3.0`,
                             thumbnail: ofrply3, //Gambarnye
                             sellerJid: '0@s.whatsapp.net' 
                           }
@@ -1442,7 +1442,7 @@ kurr.sendMessage(from, listMsg, MessageType.listMessage, {contextInfo: { mention
  stod = `${sender}`
  listMsg = {
  buttonText: 'PILIH MENU DISINI',
- footerText: '*_© Yuki ゑ_*',
+ footerText: '*_© Sofys*',
  description: `Hai @${stod.split('@')[0]}\nSaya Adalah Yuki Bot`,
  sections: [
                      {

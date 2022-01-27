@@ -1,7 +1,7 @@
 {
-  "name": "KurrXd",
+  "name": "Sofys",
   "version": "0.0.1",
-  "description": "KurrXd",
+  "description": "Sofys",
   "main": "node index",
   "directories": {
     "lib": "lib"
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "KurrXd",
+  "author": "Sofys",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.3",
